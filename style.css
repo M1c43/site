@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    background:cornflowerblue;
+    padding-bottom:10px;
+}
+section{
+    font: 30px;
+}
+.título{
+    font-size: 29px;
+    font-family: "Oswald", sans-serif;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+ 
+}
+
+header {
+    font-family: "Oswald", sans-serif;
+
+}
